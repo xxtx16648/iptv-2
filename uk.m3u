@@ -153,15 +153,15 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/297
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/58
 #EXTINF:-1,Discovery Science
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/120148
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : SKY NEWS FHD" tvg-logo="https://epg4you.com/logos/skynews_uk.png" group-title="UK | News",UK FHD : SKY NEWS FHD
+#EXTINF:-1,Sky News FHD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441400
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : CNN FHD" tvg-logo="https://epg4you.com/logos/cnn_uk.png" group-title="UK | News",UK FHD : CNN FHD
+#EXTINF:-1,CNN FHD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441397
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG FHD" tvg-logo="https://epg4you.com/logos/bloomberg_uk.png" group-title="UK | News",BLOOMBERG FHD
+#EXTINF:-1,BLOOMBERG FHD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441396
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : BBC NEWS FHD" tvg-logo="https://epg4you.com/logos/bbcnews_uk.png" group-title="UK | News",UK FHD : BBC NEWS FHD
+#EXTINF:-1,BBC NEWS FHD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441395
-#EXTINF:-1 tvg-id="" tvg-name="90's" tvg-logo="" group-title="",90's
+#EXTINF:-1,90's
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/439712
 #EXTINF:-1,MTV FHD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/452287
