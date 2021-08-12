@@ -71,7 +71,7 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571939
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571927
 #EXTINF:-1,Nickelodeon
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571884
-#EXTINF:-1,NickHD
+#EXTINF:-1,Nickelodeon HD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441407
 #EXTINF:-1,Nicktoons
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/571885
@@ -121,8 +121,12 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/1304
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/1305
 #EXTINF:-1,Clubland
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/1323
-#EXTINF:-1,NOW 70S
+#EXTINF:-1,Now 70s
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/110691
+#EXTINF:-1,NOW 90s
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441484
+#EXTINF:-1,Now 80s
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441483
 #EXTINF:-1,Kerrang!
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/1316
 #EXTINF:-1,Magic
@@ -139,6 +143,8 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/53
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/291
 #EXTINF:-1,Nat Geo Wild
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/55
+#EXTINF:-1,Nat Geo
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/459783
 #EXTINF:-1,Animal Planet
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/59
 #EXTINF:-1,Investigation Discovery
@@ -153,17 +159,17 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/297
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/58
 #EXTINF:-1,Discovery Science
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/120148
-#EXTINF:-1,Sky News FHD
+#EXTINF:-1,Sky News HD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441400
-#EXTINF:-1,CNN FHD
+#EXTINF:-1,CNN HD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441397
-#EXTINF:-1,BLOOMBERG FHD
+#EXTINF:-1,Bloomberg HD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441396
-#EXTINF:-1,BBC NEWS FHD
+#EXTINF:-1,BBC News HD
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441395
 #EXTINF:-1,90's
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/439712
-#EXTINF:-1,MTV FHD
+#EXTINF:-1,MTV
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/452287
 #EXTINF:-1,MTV Live
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/452286
@@ -219,3 +225,7 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/501173
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/501170
 #EXTINF:-1,Sky Sports Arena
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/501168
+#EXTINF:-1,Sky H2 History
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/459789
+#EXTINF:-1,Sky History
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/459788
